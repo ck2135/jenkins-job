@@ -1,1 +1,3 @@
-# jenkins-job
+# maven-project
+
+Simple Maven Project
